@@ -7,7 +7,7 @@ var moment = require('moment');
 router.get("/",(req,res, next)=>{
 
     try{
-        res.send('Poseidon api is yea up');
+        res.send('Poseidon ai is yea up');
 
     }catch(e){
         console.log(e)
